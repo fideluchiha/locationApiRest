@@ -1,0 +1,8 @@
+com\locations\apiRest\ServletInitializer.class
+com\locations\apiRest\services\interfaces\ILocationServices.class
+com\locations\apiRest\entities\Locations_.class
+com\locations\apiRest\controllers\Apicontroller.class
+com\locations\apiRest\entities\Locations.class
+com\locations\apiRest\LocationRestApiApplication.class
+com\locations\apiRest\services\implementation\LocationImplements.class
+com\locations\apiRest\repository\LocationsRepository.class
